@@ -127,6 +127,9 @@ a.url:hover,
 }
 .site-title a {
 	font-weight: bold;
+    position: relative;
+    text-decoration: none;
+    left: 10px;
 }
 .site-description {
 	padding-bottom: 15px;

@@ -58,6 +58,7 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 			),
 		),
 		
+		
 	);
 
 	// Override customizer options per subcategory.
