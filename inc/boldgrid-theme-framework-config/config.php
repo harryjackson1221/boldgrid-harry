@@ -57,61 +57,7 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 				'#2a2a2a',
 			),
 		),
-		array(
-			'format' => 'palette-primary',
-			'neutral-color' => '#f4f4f4',
-			'colors' => array(
-				'#c1b653',
-				'#555764',
-				'#555764',
-				'#c1b653',
-				'#2f3038',
-			),
-		),
-		array(
-			'format' => 'palette-primary',
-			'neutral-color' => '#ffffff',
-			'colors' => array(
-				'#ec576b',
-				'#4ec5c1',
-				'#4ec5c1',
-				'#ec576b',
-				'#f4f4f4',
-			),
-		),
-		array(
-			'format' => 'palette-primary',
-			'neutral-color' => '#e8e8e8',
-			'colors' => array(
-				'#ff3b3f',
-				'#22252c',
-				'#22252c',
-				'#ff3b3f',
-				'#e2e2e2',
-			),
-		),
-		array(
-			'format' => 'palette-primary',
-			'neutral-color' => '#d7cec7',
-			'colors' => array(
-				'#76323f',
-				'#565656',
-				'#565656',
-				'#76323f',
-				'#c0af9f',
-			),
-		),
-		array(
-			'format' => 'palette-primary',
-			'neutral-color' => '#12131a',
-			'colors' => array(
-				'#03c9a9',
-				'#544359',
-				'#544359',
-				'#03c9a9',
-				'#2d2f41',
-			),
-		),
+		
 	);
 
 	// Override customizer options per subcategory.
