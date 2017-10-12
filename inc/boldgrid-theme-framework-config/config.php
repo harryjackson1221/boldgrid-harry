@@ -5,7 +5,7 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 	 */
 	$boldgrid_framework_configs['theme_name'] = 'boldgrid-william';
 	$boldgrid_framework_configs['boldgrid-parent-theme'] = true;
-	$boldgrid_framework_configs['parent-theme-name'] = 'prime';
+	$boldgrid_framework_configs['parent-theme-name'] = 'boldgrid-prime';
 
 	// Enable sticky footer and attribution links.
 	$boldgrid_framework_configs['scripts']['boldgrid-sticky-footer'] = true;
