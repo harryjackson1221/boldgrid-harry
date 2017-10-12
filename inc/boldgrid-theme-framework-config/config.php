@@ -3,7 +3,7 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 	/**
 	 * General Configs
 	 */
-	$boldgrid_framework_configs['theme_name'] = 'boldgrid-william';
+	$boldgrid_framework_configs['theme_name'] = 'boldgrid-harry';
 	$boldgrid_framework_configs['boldgrid-parent-theme'] = true;
 	$boldgrid_framework_configs['parent-theme-name'] = 'boldgrid-prime';
 
